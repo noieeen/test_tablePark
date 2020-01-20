@@ -1,0 +1,21 @@
+
+
+
+
+    // cVal--;
+    // for (c in checkArr) {
+    //   if (Math.abs(checkArr[c].y - spot.y) == afVal) {
+    //     grid[spot.x][checkArr[c].y] = cVal;
+    //     //console.log('test');
+    //     if (checkArr.length > 0) {
+    //       afVal++;
+    //       cVal--;
+    //     }
+    //   }
+    // }
+
+    //console.log('afVal', afVal);
+    // for (k in checkArr / 2) {
+    //   afVal++;
+    //   console.log('afVal', afVal);
+    // }
